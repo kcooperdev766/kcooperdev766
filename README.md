@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Khalif</h1>
-<h3 align="center">I write technical content about marketing technology, web analytics, & JavaScript. I really enjoy learning about JavaScript, and Marketing Analytics.</h3>
 
-- 🌱 I’m currently learning **looker studio**
+![](https://media.licdn.com/dms/image/D4E16AQFMCLPe11WrqA/profile-displaybackgroundimage-shrink_350_1400/0/1686201838486?e=1691625600&v=beta&t=H09EKWgqGiv9_6V536BNwdTsH7Fi3r7-DDZp6X7dPcU)
+
+<h3 align="center">I write technical content about Marketing Analytics, Web Analytics, & JavaScript. I really enjoy learning about JavaScript, and Marketing Analytics.</h3>
+
+- 🌱 I’m currently learning **Looker Studio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kcooperdev766](https://github.com/kcooperdev766)
 
 - 📝 I regularly write articles on [https://dev.to/the_martechguy](https://dev.to/the_martechguy)
 
-- 💬 Ask me about **marketing analytics, react**
+- 💬 Ask me about **Marketing Analytics, ReactJS**
 
 - 📫 How to reach me **khalif.cooper@outlook.com**
 
