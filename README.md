@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Khalif & Welcome to my Github Profile. </h1>
+<h1 align="center">Hi 👋, My name is Khalif</h1>
 
 ![](https://media.licdn.com/dms/image/D4E16AQFMCLPe11WrqA/profile-displaybackgroundimage-shrink_350_1400/0/1686201838486?e=1691625600&v=beta&t=H09EKWgqGiv9_6V536BNwdTsH7Fi3r7-DDZp6X7dPcU)
 
