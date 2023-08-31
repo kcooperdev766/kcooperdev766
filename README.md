@@ -1,14 +1,14 @@
 ![](https://media.licdn.com/dms/image/D4E16AQFMCLPe11WrqA/profile-displaybackgroundimage-shrink_350_1400/0/1686201838486?e=1691625600&v=beta&t=H09EKWgqGiv9_6V536BNwdTsH7Fi3r7-DDZp6X7dPcU)
 
-<h3 align="center">I write technical content about Marketing Analytics, Web Analytics, & JavaScript. I really enjoy learning about JavaScript, and Marketing Analytics.</h3>
+<h3 align="center">I write technical content about Web Analytics, & JavaScript. I really enjoy learning about JavaScript, and Marketing Analytics.</h3>
 
-- 🌱 I’m currently learning **Looker Studio**
+- 🌱 I’m currently working through the **Odin Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kcooperdev766](https://github.com/kcooperdev766)
 
-- 📝 I regularly write articles on [https://dev.to/the_martechguy](https://dev.to/the_martechguy)
+- 📝 I regularly write articles on [https://dev.to/kcooperdev766](https://dev.to/kcooperdev766)
 
-- 💬 Ask me about **Marketing Analytics, ReactJS**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **khalif.cooper@outlook.com**
 
